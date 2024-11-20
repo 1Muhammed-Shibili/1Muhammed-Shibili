@@ -34,20 +34,13 @@ I'm a passionate **Flutter Developer** with over a year of experience creating d
    - Flutter app with **GetX** state management and API integration.  
    - Features include dark/light mode and dynamic theming.  
 
-2. **[Tailors Connect](https://github.com/1Muhammed-Shibili/tailors-connect)**:  
+2. **[Tailors Connect](https://github.com/1Muhammed-Shibili/tailors_connect)**:  
    - A platform connecting tailors and customers.  
    - Backend powered by Firebase with tailored user experiences.  
 
 3. **Animation Projects**:  
    - **[Swipe Button with Lottie Animation](https://github.com/1Muhammed-Shibili/swipe-animation)**.  
    - **[Color Transition Animation](https://github.com/1Muhammed-Shibili/color-transition)**.  
-
----
-
-## 📈 GitHub Stats  
-
-![Muhammed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=1Muhammed-Shibili&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1Muhammed-Shibili&layout=compact&theme=radical)  
 
 ---
 
