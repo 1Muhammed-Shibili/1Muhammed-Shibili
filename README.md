@@ -28,22 +28,6 @@ I'm a passionate **Flutter Developer** with over a year of experience creating d
 
 ---
 
-## 📂 Featured Projects  
-
-1. **[News App](https://github.com/1Muhammed-Shibili/news-app)**:  
-   - Flutter app with **GetX** state management and API integration.  
-   - Features include dark/light mode and dynamic theming.  
-
-2. **[Tailors Connect](https://github.com/1Muhammed-Shibili/tailors_connect)**:  
-   - A platform connecting tailors and customers.  
-   - Backend powered by Firebase with tailored user experiences.  
-
-3. **Animation Projects**:  
-   - **[Swipe Button with Lottie Animation](https://github.com/1Muhammed-Shibili/swipe-animation)**.  
-   - **[Color Transition Animation](https://github.com/1Muhammed-Shibili/color-transition)**.  
-
----
-
 ## 📫 Let's Connect  
 
 - **LinkedIn**: [Muhammed Shibili](https://linkedin.com/in/1Muhammed-Shibili)  
