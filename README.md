@@ -2,6 +2,7 @@
 
 🚀 **Flutter Developer | Tech Innovator | B.Com Graduate**
 
+![pic](https://github.com/user-attachments/assets/5d2b37cd-3a4c-43cd-b5b0-d9f302e5f47d)
 ---
 
 ## 🌟 About Me  
