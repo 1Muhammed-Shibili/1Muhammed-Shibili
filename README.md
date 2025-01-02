@@ -1,8 +1,7 @@
-# Hi there! 👋 I'm Muhammed Shibili  
+![vecteezy_isometric-desktop-computer-coding-programming-technology_22328336-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/1078cecd-9cf9-4c36-b262-41939584116b)
+# Hi! I'm Muhammed Shibili  
 
 🚀 **Flutter Developer | Tech Innovator | B.Com Graduate**
-
-![pic](https://github.com/user-attachments/assets/5d2b37cd-3a4c-43cd-b5b0-d9f302e5f47d)
 ---
 
 ## 🌟 About Me  
