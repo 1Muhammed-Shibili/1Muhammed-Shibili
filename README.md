@@ -21,7 +21,7 @@ I'm a passionate **Flutter Developer** with over a year of experience creating d
   ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)  
 
 - **Proficient in**:  
-  - State management with **GetX**.  
+  - State management with **GetX,** **Bloc**.  
   - API integration and backend services.  
   - UI/UX design with reusable widgets and responsive layouts.  
   - Implementing animations and dynamic functionality.  
