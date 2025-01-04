@@ -18,23 +18,6 @@ I'm a passionate **Flutter Developer** with over a year of experience creating d
  
 ---
 
-### Languages
-- Dart, HTML/CSS, JavaScript
-
-### Frameworks
-- Flutter, Firebase, GetX, BLoC, Lottie, Hive
-
-### Developer Tools
-- Git, Android Studio, VS Code, Postman, GitHub, Figma
-
-### Libraries
-- shimmer, country-pickers, flutter-tts, HTTP, provider
-
-### APIs
-- OpenWeather API, Pixabay API, REST APIs
-
----
-
 ## 📫 Let's Connect  
 
 - **LinkedIn**: [Muhammed Shibili](https://linkedin.com/in/1Muhammed-Shibili)  
