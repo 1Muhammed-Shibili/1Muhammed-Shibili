@@ -6,9 +6,8 @@
 
 ## 🌟 About Me  
 
-I'm a passionate **Flutter Developer** with over a year of experience creating dynamic, responsive, and beautiful apps. I enjoy working on UI/UX designs that enhance user experiences and implementing efficient, maintainable code. My journey began with static websites, and I’ve grown to develop full-fledged Flutter applications, constantly learning and improving along the way.  
-
-💡 Currently, I'm exploring new ways to bring innovation into mobile app development and contribute to impactful projects.  
+I enjoy working on UI/UX designs that enhance user experiences and implementing efficient, maintainable code.
+Currently, I'm exploring new ways to bring innovation into mobile app development and contribute to impactful projects.  
 
 ---
 
