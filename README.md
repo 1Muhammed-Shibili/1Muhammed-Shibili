@@ -6,9 +6,10 @@
 
 ## 🌟 About Me  
 I enjoy working on UI/UX designs that enhance user experiences and implementing efficient, maintainable code.
-Currently, I'm exploring new ways to bring innovation into mobile app development and contribute to impactful projects.  
-
+Currently, I'm exploring new ways to bring innovation into mobile app development and contribute to impactful projects. 
+ 
 check my portfolio : https://1muhammed-shibili.github.io/portfolio/
+
 ---
 
 ## 🛠️ Skills & Tools
